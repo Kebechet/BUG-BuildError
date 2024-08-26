@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildError", "BuildError\BuildError.csproj", "{9D7821C2-1F8B-45C4-AE57-4D25C22218C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D7821C2-1F8B-45C4-AE57-4D25C22218C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D7821C2-1F8B-45C4-AE57-4D25C22218C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D7821C2-1F8B-45C4-AE57-4D25C22218C6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9D7821C2-1F8B-45C4-AE57-4D25C22218C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D7821C2-1F8B-45C4-AE57-4D25C22218C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D7821C2-1F8B-45C4-AE57-4D25C22218C6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A66C859-5B7F-488A-A089-61194FFBCA53}
+	EndGlobalSection
+EndGlobal
